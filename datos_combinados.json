@@ -1,6 +1,8 @@
 {
     "1": {
         "nombre_equipo": "Athletic",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/athletic",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/1.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410022336/uploads/images/jugadores/ficha/7917.png",
@@ -57,6 +59,8 @@
     },
     "2": {
         "nombre_equipo": "Atl\u00e9tico",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/atletico",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/2.png?v=2025",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410301321/uploads/images/jugadores/ficha/3691.png",
@@ -113,6 +117,8 @@
     },
     "3": {
         "nombre_equipo": "Barcelona",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/barcelona",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/3.png",
         "jugadores_apercebidos": [],
         "partidos": [
             {
@@ -164,6 +170,8 @@
     },
     "4": {
         "nombre_equipo": "Betis",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/betis",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/4.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410301510/uploads/images/jugadores/ficha/9175.png",
@@ -220,6 +228,8 @@
     },
     "5": {
         "nombre_equipo": "Celta",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/celta",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/5.png",
         "jugadores_apercebidos": [],
         "partidos": [
             {
@@ -271,6 +281,8 @@
     },
     "7": {
         "nombre_equipo": "Espanyol",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/espanyol",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/7.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411201257/uploads/images/jugadores/ficha/3879.png",
@@ -335,6 +347,8 @@
     },
     "8": {
         "nombre_equipo": "Getafe",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/getafe",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/8.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411200226/uploads/images/jugadores/ficha/3800.png",
@@ -403,6 +417,8 @@
     },
     "12": {
         "nombre_equipo": "Mallorca",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/mallorca",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/12.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
@@ -459,6 +475,8 @@
     },
     "13": {
         "nombre_equipo": "Osasuna",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/osasuna",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/13.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_13_local_campo.png",
@@ -519,6 +537,8 @@
     },
     "14": {
         "nombre_equipo": "Rayo",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/rayo-vallecano",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/14.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
@@ -575,6 +595,8 @@
     },
     "15": {
         "nombre_equipo": "Real Madrid",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-madrid",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/15.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_15_local_campo.png",
@@ -631,6 +653,8 @@
     },
     "16": {
         "nombre_equipo": "Real Sociedad",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-sociedad",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/16.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
@@ -687,6 +711,8 @@
     },
     "17": {
         "nombre_equipo": "Sevilla",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/sevilla",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/17.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
@@ -747,6 +773,8 @@
     },
     "18": {
         "nombre_equipo": "Valencia",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valencia",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/18.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_18_local_campo.png",
@@ -803,6 +831,8 @@
     },
     "19": {
         "nombre_equipo": "Valladolid",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valladolid",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/19.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
@@ -871,6 +901,8 @@
     },
     "22": {
         "nombre_equipo": "Villarreal",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/villarreal",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/22.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
@@ -931,6 +963,8 @@
     },
     "27": {
         "nombre_equipo": "Las Palmas",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/las-palmas",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/27.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411201536/uploads/images/jugadores/ficha/8077.png",
@@ -987,6 +1021,8 @@
     },
     "28": {
         "nombre_equipo": "Alav\u00e9s",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/alaves",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/28.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202409271048/uploads/images/jugadores/ficha/6605.png",
@@ -1043,6 +1079,8 @@
     },
     "29": {
         "nombre_equipo": "Legan\u00e9s",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/leganes",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/29.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_29_local_campo.png",
@@ -1099,6 +1137,8 @@
     },
     "30": {
         "nombre_equipo": "Girona",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/girona",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/30.png",
         "jugadores_apercebidos": [
             {
                 "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411201440/uploads/images/jugadores/ficha/6446.png",
