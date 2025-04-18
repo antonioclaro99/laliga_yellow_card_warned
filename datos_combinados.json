@@ -1,1216 +1,908 @@
 {
-    "1": {
-        "nombre_equipo": "Athletic",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/athletic",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/1.png",
-        "jugadores_apercebidos": [],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_local_nombre": "Osasuna",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "Jornada 18\nSab 21/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/641.png",
-                "equipo_local_nombre": "Logro\u00f1\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_local_nombre": "Athletic",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "1/2\nMie 08/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/supercopaespa%C3%B1a.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_local_nombre": "Celta",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/532.png",
-                "equipo_local_nombre": "Besiktas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "Jornada 7\nMie 22/01\n16:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/europaleague.png"
-            }
-        ]
-    },
-    "2": {
-        "nombre_equipo": "Atl\u00e9tico",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/atletico",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/2.png?v=2025",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410082248/uploads/images/jugadores/ficha/63.png",
-                "nombre_jugador": "Koke Resurrecci\u00f3n"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411211829/uploads/images/jugadores/ficha/1120.png",
-                "nombre_jugador": "Rodrigo De Paul"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410301321/uploads/images/jugadores/ficha/3691.png",
-                "nombre_jugador": "Cl\u00e9ment Lenglet"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410082248/uploads/images/jugadores/ficha/6487.png",
-                "nombre_jugador": "Javi Gal\u00e1n"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_local_nombre": "Barcelona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_visitante_nombre": "Atl\u00e9tico",
-                "informacion_partido": "Jornada 18\nSab 21/12\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/634.png",
-                "equipo_local_nombre": "Marbella",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_visitante_nombre": "Atl\u00e9tico",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_local_nombre": "Atl\u00e9tico",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_visitante_nombre": "Osasuna",
-                "informacion_partido": "Jornada 19\nDom 12/01\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_local_nombre": "Legan\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_visitante_nombre": "Atl\u00e9tico",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_local_nombre": "Atl\u00e9tico",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/512.png",
-                "equipo_visitante_nombre": "B. Leverkusen",
-                "informacion_partido": "Jornada 7\nMar 21/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/championsleague.png"
-            }
-        ]
-    },
-    "3": {
-        "nombre_equipo": "Barcelona",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/barcelona",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/3.png",
-        "jugadores_apercebidos": [],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_local_nombre": "Barcelona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_visitante_nombre": "Atl\u00e9tico",
-                "informacion_partido": "Jornada 18\nSab 21/12\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/barbastro.png",
-                "equipo_local_nombre": "Barbastro",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_local_nombre": "Athletic",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "1/2\nMie 08/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/supercopaespa%C3%B1a.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_local_nombre": "Getafe",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/504.png",
-                "equipo_local_nombre": "Benfica",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "Jornada 7\nMar 21/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/championsleague.png"
-            }
-        ]
-    },
-    "4": {
-        "nombre_equipo": "Betis",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/betis",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/4.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411231916/uploads/images/jugadores/ficha/5545.png",
-                "nombre_jugador": "Chimy \u00c1vila"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411231916/uploads/images/jugadores/ficha/9175.png",
-                "nombre_jugador": "Romain Perraud"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_local_nombre": "Betis",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_visitante_nombre": "Rayo",
-                "informacion_partido": "Jornada 18\nDom 22/12\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/31.png",
-                "equipo_local_nombre": "Huesca",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_visitante_nombre": "Betis",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_local_nombre": "Valladolid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_visitante_nombre": "Betis",
-                "informacion_partido": "Jornada 19\nSab 11/01\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_local_nombre": "Betis",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_visitante_nombre": "Alav\u00e9s",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_local_nombre": "Mallorca",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_visitante_nombre": "Betis",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "5": {
-        "nombre_equipo": "Celta",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/celta",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/5.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411201332/uploads/images/jugadores/ficha/8988.png",
-                "nombre_jugador": "Hugo Sotelo"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410171401/uploads/images/jugadores/ficha/9740.png",
-                "nombre_jugador": "Hugo \u00c1lvarez"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202409271054/uploads/images/jugadores/ficha/12534.png",
-                "nombre_jugador": "Javi Rodr\u00edguez"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_local_nombre": "Celta",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_visitante_nombre": "Real Sociedad",
-                "informacion_partido": "Jornada 18\nSab 21/12\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/42.png",
-                "equipo_local_nombre": "Racing",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_visitante_nombre": "Celta",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_local_nombre": "Rayo",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_visitante_nombre": "Celta",
-                "informacion_partido": "Jornada 19\nVie 10/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_local_nombre": "Celta",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_local_nombre": "Alav\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_visitante_nombre": "Celta",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "7": {
-        "nombre_equipo": "Espanyol",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/espanyol",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/7.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202412091958/uploads/images/jugadores/ficha/11172.png",
-                "nombre_jugador": "Carlos Romero"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_visitante_nombre": "Espanyol",
-                "informacion_partido": "Jornada 18\nDom 22/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_local_nombre": "Espanyol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_visitante_nombre": "Legan\u00e9s",
-                "informacion_partido": "Jornada 19\nSab 11/01\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_local_nombre": "Espanyol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_local_nombre": "Sevilla",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_visitante_nombre": "Espanyol",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_local_nombre": "Espanyol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_visitante_nombre": "Real Madrid",
-                "informacion_partido": "Jornada 22\nDom 02/02\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "8": {
-        "nombre_equipo": "Getafe",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/getafe",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/8.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411200226/uploads/images/jugadores/ficha/3235.png",
-                "nombre_jugador": "Diego Rico"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202411200226/uploads/images/jugadores/ficha/3800.png",
-                "nombre_jugador": "\u00c1lex Sola"
-            },
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202412181512/uploads/images/jugadores/ficha/9164.png",
-                "nombre_jugador": "Omar Alderete"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_local_nombre": "Getafe",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "Jornada 18\nSab 21/12\n14:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/9.png",
-                "equipo_local_nombre": "Granada",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_visitante_nombre": "Getafe",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_visitante_nombre": "Getafe",
-                "informacion_partido": "Jornada 19\nDom 12/01\n14:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_local_nombre": "Getafe",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
-                "equipo_visitante_nombre": "Barcelona",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_local_nombre": "Real Sociedad",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_visitante_nombre": "Getafe",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "12": {
-        "nombre_equipo": "Mallorca",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/mallorca",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/12.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
-                "nombre_jugador": "Abdon Prats"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
-                "nombre_jugador": "Sam\u00fa Costa"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_local_nombre": "Getafe",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "Jornada 18\nSab 21/12\n14:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/633.png",
-                "equipo_local_nombre": "Pontevedra",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "1/2\nJue 09/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/supercopaespa%C3%B1a.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_local_nombre": "Villarreal",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_local_nombre": "Mallorca",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_visitante_nombre": "Betis",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "13": {
-        "nombre_equipo": "Osasuna",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/osasuna",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/13.png",
-        "jugadores_apercebidos": [],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_local_nombre": "Osasuna",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_visitante_nombre": "Athletic",
-                "informacion_partido": "Jornada 18\nSab 21/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/37.png",
-                "equipo_local_nombre": "Tenerife",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_visitante_nombre": "Osasuna",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_local_nombre": "Atl\u00e9tico",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_visitante_nombre": "Osasuna",
-                "informacion_partido": "Jornada 19\nDom 12/01\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_local_nombre": "Osasuna",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_visitante_nombre": "Rayo",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_visitante_nombre": "Osasuna",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "14": {
-        "nombre_equipo": "Rayo",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/rayo-vallecano",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/14.png",
-        "jugadores_apercebidos": [],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_local_nombre": "Betis",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_visitante_nombre": "Rayo",
-                "informacion_partido": "Jornada 18\nDom 22/12\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/632.png",
-                "equipo_local_nombre": "R. Ferrol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_visitante_nombre": "Rayo",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_local_nombre": "Rayo",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_visitante_nombre": "Celta",
-                "informacion_partido": "Jornada 19\nVie 10/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_local_nombre": "Osasuna",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_visitante_nombre": "Rayo",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
-                "equipo_local_nombre": "Rayo",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_visitante_nombre": "Girona",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "15": {
-        "nombre_equipo": "Real Madrid",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-madrid",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/15.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_15_local_campo.png",
-                "nombre_jugador": "Luka Modric"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_visitante_nombre": "Sevilla",
-                "informacion_partido": "Jornada 18\nDom 22/12\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_visitante_nombre": "Real Madrid",
-                "informacion_partido": "Jornada 12\nVie 03/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/deportivaminera.png",
-                "equipo_local_nombre": "Dep. Minera",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_visitante_nombre": "Real Madrid",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "1/2\nJue 09/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/supercopaespa%C3%B1a.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_visitante_nombre": "Las Palmas",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "16": {
-        "nombre_equipo": "Real Sociedad",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-sociedad",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/16.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
-                "nombre_jugador": "Igor Zubeldia"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
-                "nombre_jugador": "Brais M\u00e9ndez"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
-                "nombre_jugador": "Jon Aramburu"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
-                "equipo_local_nombre": "Celta",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_visitante_nombre": "Real Sociedad",
-                "informacion_partido": "Jornada 18\nSab 21/12\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_local_nombre": "Real Sociedad",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_visitante_nombre": "Villarreal",
-                "informacion_partido": "Jornada 19\nLun 13/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_visitante_nombre": "Real Sociedad",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/591.png",
-                "equipo_local_nombre": "Lazio",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_visitante_nombre": "Real Sociedad",
-                "informacion_partido": "Jornada 7\nJue 23/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/europaleague.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_local_nombre": "Real Sociedad",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_visitante_nombre": "Getafe",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "17": {
-        "nombre_equipo": "Sevilla",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/sevilla",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/17.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
-                "nombre_jugador": "Adri\u00e0 Pedrosa"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
-                "nombre_jugador": "Lucien Agoume"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
-                "nombre_jugador": "Lo\u00efc Bad\u00e9"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
-                "nombre_jugador": "Isaac Romero"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_visitante_nombre": "Sevilla",
-                "informacion_partido": "Jornada 18\nDom 22/12\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/23.png",
-                "equipo_local_nombre": "Almer\u00eda",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_visitante_nombre": "Sevilla",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_local_nombre": "Sevilla",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_visitante_nombre": "Valencia",
-                "informacion_partido": "Jornada 19\nSab 11/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_local_nombre": "Girona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_visitante_nombre": "Sevilla",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_local_nombre": "Sevilla",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_visitante_nombre": "Espanyol",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "18": {
-        "nombre_equipo": "Valencia",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valencia",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/18.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_18_local_campo.png",
-                "nombre_jugador": "Pepelu"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_visitante_nombre": "Alav\u00e9s",
-                "informacion_partido": "Jornada 18\nDom 22/12\n14:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_visitante_nombre": "Real Madrid",
-                "informacion_partido": "Jornada 12\nVie 03/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/722.png",
-                "equipo_local_nombre": "Eldense",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_visitante_nombre": "Valencia",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_local_nombre": "Sevilla",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_visitante_nombre": "Valencia",
-                "informacion_partido": "Jornada 19\nSab 11/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_visitante_nombre": "Real Sociedad",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "19": {
-        "nombre_equipo": "Valladolid",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valladolid",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/19.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
-                "nombre_jugador": "Anuar Mohamed"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
-                "nombre_jugador": "Juan Miguel Latasa"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
-                "nombre_jugador": "David Torres"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
-                "nombre_jugador": "Stanko Juric"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_local_nombre": "Girona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "Jornada 18\nVie 20/12\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/ourense.png",
-                "equipo_local_nombre": "Ourense",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_local_nombre": "Valladolid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
-                "equipo_visitante_nombre": "Betis",
-                "informacion_partido": "Jornada 19\nSab 11/01\n16:15h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_local_nombre": "Espanyol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_local_nombre": "Valladolid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_visitante_nombre": "Real Madrid",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "22": {
-        "nombre_equipo": "Villarreal",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/villarreal",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/22.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
-                "nombre_jugador": "Ra\u00fal Albiol"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
-                "nombre_jugador": "Y\u00e9remi Pino"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_local_nombre": "Legan\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_visitante_nombre": "Villarreal",
-                "informacion_partido": "Jornada 18\nDom 22/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
-                "equipo_local_nombre": "Real Sociedad",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_visitante_nombre": "Villarreal",
-                "informacion_partido": "Jornada 19\nLun 13/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_local_nombre": "Villarreal",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
-                "equipo_visitante_nombre": "Mallorca",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_local_nombre": "Atl\u00e9tico",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_visitante_nombre": "Villarreal",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_local_nombre": "Villarreal",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "Jornada 22\nDom 02/02\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "27": {
-        "nombre_equipo": "Las Palmas",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/las-palmas",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/27.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410082243/uploads/images/jugadores/ficha/5533.png",
-                "nombre_jugador": "Jaime Mata"
-            },
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_27_local_campo.png",
-                "nombre_jugador": "D\u00e1rio Essugo"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_visitante_nombre": "Espanyol",
-                "informacion_partido": "Jornada 18\nDom 22/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/21.png",
-                "equipo_local_nombre": "Elche",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_visitante_nombre": "Las Palmas",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
-                "equipo_visitante_nombre": "Getafe",
-                "informacion_partido": "Jornada 19\nDom 12/01\n14:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
-                "equipo_local_nombre": "Real Madrid",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_visitante_nombre": "Las Palmas",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
-                "equipo_local_nombre": "Las Palmas",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
-                "equipo_visitante_nombre": "Osasuna",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
     "28": {
         "nombre_equipo": "Alav\u00e9s",
         "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/alaves",
         "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/28.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202410251328/uploads/images/jugadores/ficha/8737.png",
-                "nombre_jugador": "Antonio Blanco"
-            }
-        ],
+        "jugadores_apercebidos": [],
         "partidos": [
             {
                 "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
-                "equipo_local_nombre": "Valencia",
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
                 "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
                 "equipo_visitante_nombre": "Alav\u00e9s",
-                "informacion_partido": "Jornada 18\nDom 22/12\n14:00h",
+                "informacion_partido": "Jornada 32\nDom 20/04\n18:30h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 2,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
                 "equipo_local_nombre": "Alav\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_visitante_nombre": "Girona",
-                "informacion_partido": "Jornada 19\nSab 11/01\n14:00h",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 33\nMie 23/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_local_nombre": "Alav\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_local_nombre": "Athletic",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_visitante_nombre": "Alav\u00e9s",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_local_nombre": "Alav\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_local_nombre": "Real Madrid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "Jornada 32\nDom 20/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_local_nombre": "Athletic",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_visitante_nombre": "Las Palmas",
+                "informacion_partido": "Jornada 33\nMie 23/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_local_nombre": "Athletic",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/517.png",
+                "equipo_visitante_nombre": "Man United",
+                "informacion_partido": "1/2\nJue 01/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/europaleague.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_local_nombre": "Real Sociedad",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/517.png",
+                "equipo_local_nombre": "Man United",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "1/2\nJue 08/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/europaleague.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 32\nSab 19/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_local_nombre": "Atl\u00e9tico",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_visitante_nombre": "Rayo",
+                "informacion_partido": "Jornada 33\nJue 24/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_local_nombre": "Alav\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_local_nombre": "Atl\u00e9tico",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_local_nombre": "Osasuna",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_visitante_nombre": "Celta",
+                "informacion_partido": "Jornada 32\nSab 19/04\n16:15h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_visitante_nombre": "Mallorca",
+                "informacion_partido": "Jornada 33\nMar 22/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_visitante_nombre": "Real Madrid",
+                "informacion_partido": "Final\nSab 26/04\n22:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/599.png",
+                "equipo_visitante_nombre": "Inter",
+                "informacion_partido": "1/2\nMie 30/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/championsleague.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_visitante_nombre": "Barcelona",
+                "informacion_partido": "Jornada 34\nSab 03/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "Jornada 32\nLun 21/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_local_nombre": "Betis",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_visitante_nombre": "Valladolid",
+                "informacion_partido": "Jornada 33\nJue 24/04\n21:30h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 3,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
                 "equipo_local_nombre": "Betis",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_visitante_nombre": "Alav\u00e9s",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/602.png",
+                "equipo_visitante_nombre": "Fiorentina",
+                "informacion_partido": "1/2\nJue 01/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/conferenceleague.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_local_nombre": "Espanyol",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/602.png",
+                "equipo_local_nombre": "Fiorentina",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "1/2\nJue 08/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/conferenceleague.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_visitante_nombre": "Celta",
+                "informacion_partido": "Jornada 32\nSab 19/04\n16:15h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_local_nombre": "Celta",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_visitante_nombre": "Villarreal",
+                "informacion_partido": "Jornada 33\nMie 23/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_local_nombre": "Real Madrid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_visitante_nombre": "Celta",
+                "informacion_partido": "Jornada 34\nDom 04/05\n14:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_local_nombre": "Alav\u00e9s",
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_local_nombre": "Celta",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_visitante_nombre": "Sevilla",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_local_nombre": "Real Sociedad",
                 "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
                 "equipo_visitante_nombre": "Celta",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_local_nombre": "Espanyol",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 32\nVie 18/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_local_nombre": "Valencia",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 33\nMar 22/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 26\nDom 27/04\n16:15h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_local_nombre": "Espanyol",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_local_nombre": "Legan\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_local_nombre": "Espanyol",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 32\nVie 18/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_local_nombre": "Getafe",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_visitante_nombre": "Real Madrid",
+                "informacion_partido": "Jornada 33\nMie 23/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_local_nombre": "Rayo",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_local_nombre": "Valencia",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_local_nombre": "Getafe",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "Jornada 32\nLun 21/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_local_nombre": "Legan\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_visitante_nombre": "Girona",
+                "informacion_partido": "Jornada 33\nJue 24/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_visitante_nombre": "Mallorca",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_visitante_nombre": "Villarreal",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_visitante_nombre": "Girona",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 32\nSab 19/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_local_nombre": "Athletic",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_visitante_nombre": "Las Palmas",
+                "informacion_partido": "Jornada 33\nMie 23/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_visitante_nombre": "Rayo",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_visitante_nombre": "Las Palmas",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_local_nombre": "Mallorca",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_visitante_nombre": "Legan\u00e9s",
+                "informacion_partido": "Jornada 32\nSab 19/04\n18:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_local_nombre": "Legan\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_visitante_nombre": "Girona",
+                "informacion_partido": "Jornada 33\nJue 24/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_visitante_nombre": "Legan\u00e9s",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_local_nombre": "Legan\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_visitante_nombre": "Legan\u00e9s",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_local_nombre": "Mallorca",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_visitante_nombre": "Legan\u00e9s",
+                "informacion_partido": "Jornada 32\nSab 19/04\n18:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_visitante_nombre": "Mallorca",
+                "informacion_partido": "Jornada 33\nMar 22/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_visitante_nombre": "Mallorca",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_local_nombre": "Mallorca",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_visitante_nombre": "Valladolid",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_local_nombre": "Real Madrid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_visitante_nombre": "Mallorca",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_visitante_nombre": "Osasuna",
+                "informacion_partido": "Jornada 32\nDom 20/04\n14:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_local_nombre": "Osasuna",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_visitante_nombre": "Sevilla",
+                "informacion_partido": "Jornada 33\nJue 24/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_visitante_nombre": "Osasuna",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_local_nombre": "Betis",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_visitante_nombre": "Osasuna",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_local_nombre": "Osasuna",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_visitante_nombre": "Atl\u00e9tico",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_local_nombre": "Rayo",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 32\nSab 19/04\n14:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_local_nombre": "Atl\u00e9tico",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_visitante_nombre": "Rayo",
+                "informacion_partido": "Jornada 33\nJue 24/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_local_nombre": "Rayo",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_visitante_nombre": "Rayo",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
+                "equipo_local_nombre": "Rayo",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_visitante_nombre": "Betis",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_local_nombre": "Real Madrid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "Jornada 32\nDom 20/04\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_local_nombre": "Getafe",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_visitante_nombre": "Real Madrid",
+                "informacion_partido": "Jornada 33\nMie 23/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_local_nombre": "Barcelona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_visitante_nombre": "Real Madrid",
+                "informacion_partido": "Final\nSab 26/04\n22:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_local_nombre": "Real Madrid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_visitante_nombre": "Celta",
+                "informacion_partido": "Jornada 34\nDom 04/05\n14:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 5,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
                 "equipo_local_nombre": "Barcelona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
-                "equipo_visitante_nombre": "Alav\u00e9s",
-                "informacion_partido": "Jornada 22\nDom 02/02\n20:00h",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
+                "equipo_visitante_nombre": "Real Madrid",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "29": {
-        "nombre_equipo": "Legan\u00e9s",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/leganes",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/29.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_29_local_campo.png",
-                "nombre_jugador": "Renato Tapia"
-            }
-        ],
-        "partidos": [
+            },
             {
                 "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_local_nombre": "Legan\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
-                "equipo_visitante_nombre": "Villarreal",
-                "informacion_partido": "Jornada 18\nDom 22/12\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 2,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/639.png",
-                "equipo_local_nombre": "Cartagena",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_visitante_nombre": "Legan\u00e9s",
-                "informacion_partido": "1/16\nSab 04/01\n19:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/coparey.png"
-            },
-            {
-                "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
-                "equipo_local_nombre": "Espanyol",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_visitante_nombre": "Legan\u00e9s",
-                "informacion_partido": "Jornada 19\nSab 11/01\n18:30h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_local_nombre": "Legan\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
-                "equipo_visitante_nombre": "Atl\u00e9tico",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
-            {
-                "partido": 5,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
-                "equipo_local_nombre": "Athletic",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
-                "equipo_visitante_nombre": "Legan\u00e9s",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            }
-        ]
-    },
-    "30": {
-        "nombre_equipo": "Girona",
-        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/girona",
-        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/30.png",
-        "jugadores_apercebidos": [
-            {
-                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202412172324/uploads/images/jugadores/ficha/6446.png",
-                "nombre_jugador": "Yangel Herrera"
-            }
-        ],
-        "partidos": [
-            {
-                "partido": 1,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_local_nombre": "Girona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
-                "equipo_visitante_nombre": "Valladolid",
-                "informacion_partido": "Jornada 18\nVie 20/12\n21:00h",
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 32\nDom 20/04\n16:15h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 2,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
                 "equipo_local_nombre": "Alav\u00e9s",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_visitante_nombre": "Girona",
-                "informacion_partido": "Jornada 19\nSab 11/01\n14:00h",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 33\nMie 23/04\n21:30h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 3,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_local_nombre": "Girona",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
-                "equipo_visitante_nombre": "Sevilla",
-                "informacion_partido": "Jornada 20\nDom 19/01\n20:00h",
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_local_nombre": "Real Sociedad",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/1.png",
+                "equipo_visitante_nombre": "Athletic",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 4,
-                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/600.png",
-                "equipo_local_nombre": "Milan",
-                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
-                "equipo_visitante_nombre": "Girona",
-                "informacion_partido": "Jornada 7\nMie 22/01\n21:00h",
-                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/championsleague.png"
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/2.png",
+                "equipo_local_nombre": "Atl\u00e9tico",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             },
             {
                 "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_local_nombre": "Real Sociedad",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_visitante_nombre": "Celta",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_visitante_nombre": "Alav\u00e9s",
+                "informacion_partido": "Jornada 32\nDom 20/04\n18:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_local_nombre": "Osasuna",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_visitante_nombre": "Sevilla",
+                "informacion_partido": "Jornada 33\nJue 24/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/29.png",
+                "equipo_visitante_nombre": "Legan\u00e9s",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_local_nombre": "Celta",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_visitante_nombre": "Sevilla",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
+                "equipo_local_nombre": "Sevilla",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_visitante_nombre": "Las Palmas",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
                 "equipo_local_nombre": "Rayo",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 32\nSab 19/04\n14:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_local_nombre": "Valencia",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 33\nMar 22/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
+                "equipo_local_nombre": "Las Palmas",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_local_nombre": "Valencia",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/8.png",
+                "equipo_visitante_nombre": "Getafe",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/28.png",
+                "equipo_local_nombre": "Alav\u00e9s",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/18.png",
+                "equipo_visitante_nombre": "Valencia",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_visitante_nombre": "Osasuna",
+                "informacion_partido": "Jornada 32\nDom 20/04\n14:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/4.png",
+                "equipo_local_nombre": "Betis",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_visitante_nombre": "Valladolid",
+                "informacion_partido": "Jornada 33\nJue 24/04\n21:30h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
+                "equipo_visitante_nombre": "Barcelona",
+                "informacion_partido": "Jornada 34\nSab 03/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
+                "equipo_local_nombre": "Mallorca",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_visitante_nombre": "Valladolid",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
+                "equipo_local_nombre": "Valladolid",
                 "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
                 "equipo_visitante_nombre": "Girona",
-                "informacion_partido": "Jornada 21\nDom 26/01\n20:00h",
+                "informacion_partido": "Jornada 36\nMie 14/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 1,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/16.png",
+                "equipo_visitante_nombre": "Real Sociedad",
+                "informacion_partido": "Jornada 32\nDom 20/04\n16:15h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 2,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/5.png",
+                "equipo_local_nombre": "Celta",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_visitante_nombre": "Villarreal",
+                "informacion_partido": "Jornada 33\nMie 23/04\n19:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 3,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
+                "equipo_visitante_nombre": "Espanyol",
+                "informacion_partido": "Jornada 26\nDom 27/04\n16:15h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 4,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_local_nombre": "Villarreal",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/13.png",
+                "equipo_visitante_nombre": "Osasuna",
+                "informacion_partido": "Jornada 34\nDom 04/05\n21:00h",
+                "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            },
+            {
+                "partido": 5,
+                "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
+                "equipo_local_nombre": "Girona",
+                "equipo_visitante_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
+                "equipo_visitante_nombre": "Villarreal",
+                "informacion_partido": "Jornada 35\nDom 11/05\n21:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
             }
         ]
