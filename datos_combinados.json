@@ -49,7 +49,32 @@
                 "equipo_visitante_nombre": "Valencia",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "1": {
+        "nombre_equipo": "Athletic",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/athletic",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/1.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503091821/uploads/images/jugadores/ficha/1972.png",
+                "nombre_jugador": "Yeray \u00c1lvarez"
             },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504031207/uploads/images/jugadores/ficha/3204.png",
+                "nombre_jugador": "\u00c1lex Berenguer"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503132321/uploads/images/jugadores/ficha/3799.png",
+                "nombre_jugador": "Andoni Gorosabel"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504031207/uploads/images/jugadores/ficha/12605.png",
+                "nombre_jugador": "Mikel Jauregizar"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
@@ -94,7 +119,40 @@
                 "equipo_visitante_nombre": "Athletic",
                 "informacion_partido": "1/2Jue 08/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/europaleague.png"
+            }
+        ]
+    },
+    "2": {
+        "nombre_equipo": "Atl\u00e9tico",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/atletico",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/2.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503311708/uploads/images/jugadores/ficha/63.png",
+                "nombre_jugador": "Koke Resurrecci\u00f3n"
             },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503190250/uploads/images/jugadores/ficha/3691.png",
+                "nombre_jugador": "Cl\u00e9ment Lenglet"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503271825/uploads/images/jugadores/ficha/5134.png",
+                "nombre_jugador": "Alexander Sorloth"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503281155/uploads/images/jugadores/ficha/7512.png",
+                "nombre_jugador": "Reinildo Mandava"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503241852/uploads/images/jugadores/ficha/10005.png",
+                "nombre_jugador": "Pablo Barrios"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503281155/uploads/images/jugadores/ficha/10287.png",
+                "nombre_jugador": "Juli\u00e1n \u00c1lvarez"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
@@ -139,7 +197,24 @@
                 "equipo_visitante_nombre": "Atl\u00e9tico",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "3": {
+        "nombre_equipo": "Barcelona",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/barcelona",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/3.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504072043/uploads/images/jugadores/ficha/6674.png",
+                "nombre_jugador": "Jules Kound\u00e9"
             },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504072043/uploads/images/jugadores/ficha/9273.png",
+                "nombre_jugador": "Pablo Gavi"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
@@ -184,7 +259,32 @@
                 "equipo_visitante_nombre": "Barcelona",
                 "informacion_partido": "Jornada 34Sab 03/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "4": {
+        "nombre_equipo": "Betis",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/betis",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/4.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504141427/uploads/images/jugadores/ficha/707.png",
+                "nombre_jugador": "Diego Javier Llorente"
             },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503281041/uploads/images/jugadores/ficha/2118.png",
+                "nombre_jugador": "C\u00e9dric Bakambu"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202504161249/uploads/images/jugadores/ficha/3215.png",
+                "nombre_jugador": "Marc Roca"
+            },
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503271044/uploads/images/jugadores/ficha/3717.png",
+                "nombre_jugador": "Giovani Lo Celso"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
@@ -229,7 +329,20 @@
                 "equipo_visitante_nombre": "Betis",
                 "informacion_partido": "1/2Jue 08/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/conferenceleague.png"
-            },
+            }
+        ]
+    },
+    "5": {
+        "nombre_equipo": "Celta",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/celta",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/5.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202502120324/uploads/images/jugadores/ficha/8988.png",
+                "nombre_jugador": "Hugo Sotelo"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/3.png",
@@ -274,7 +387,20 @@
                 "equipo_visitante_nombre": "Celta",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
-            },
+            }
+        ]
+    },
+    "7": {
+        "nombre_equipo": "Espanyol",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/espanyol",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/7.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://media.futbolfantasy.com/thumb/150x150/v202503271442/uploads/images/jugadores/ficha/10220.png",
+                "nombre_jugador": "Omar El Hilali"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
@@ -319,7 +445,44 @@
                 "equipo_visitante_nombre": "Espanyol",
                 "informacion_partido": "Jornada 35Dom 11/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "8": {
+        "nombre_equipo": "Getafe",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/getafe",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/8.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Allan Nyom"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Juanmi Jim\u00e9nez"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "\u00c1lex Sola"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Dakonam Djen\u00e9"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Juan Berrocal"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Juan Iglesias"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_8_local_campo.png",
+                "nombre_jugador": "Alvaro Rodr\u00edguez"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/7.png",
@@ -364,7 +527,36 @@
                 "equipo_visitante_nombre": "Athletic",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "30": {
+        "nombre_equipo": "Girona",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/girona",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/30.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_30_local_campo.png",
+                "nombre_jugador": "Cristian Portu"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_30_local_campo.png",
+                "nombre_jugador": "Ladislav Krejc\u00ed"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_30_local_campo.png",
+                "nombre_jugador": "Paulo Gazzaniga"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_30_local_campo.png",
+                "nombre_jugador": "Bryan Gil"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_30_local_campo.png",
+                "nombre_jugador": "Yangel Herrera"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/30.png",
@@ -409,7 +601,24 @@
                 "equipo_visitante_nombre": "Girona",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "27": {
+        "nombre_equipo": "Las Palmas",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/las-palmas",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/27.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_27_local_campo.png",
+                "nombre_jugador": "Adnan Januzaj"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_27_local_campo.png",
+                "nombre_jugador": "Mika M\u00e1rmol"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/27.png",
@@ -454,7 +663,24 @@
                 "equipo_visitante_nombre": "Las Palmas",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "29": {
+        "nombre_equipo": "Legan\u00e9s",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/leganes",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/29.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_29_local_campo.png",
+                "nombre_jugador": "Javi Hern\u00e1ndez"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_29_local_campo.png",
+                "nombre_jugador": "Adri\u00e0 Altimira"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
@@ -499,7 +725,40 @@
                 "equipo_visitante_nombre": "Legan\u00e9s",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "12": {
+        "nombre_equipo": "Mallorca",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/mallorca",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/12.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Abdon Prats"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Omar Mascarell"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Pablo Maffeo"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Cyle Larin"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Martin Valjent"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_12_local_campo.png",
+                "nombre_jugador": "Dani Rodr\u00edguez"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/12.png",
@@ -544,7 +803,24 @@
                 "equipo_visitante_nombre": "Mallorca",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "13": {
+        "nombre_equipo": "Osasuna",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/osasuna",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/13.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_13_local_campo.png",
+                "nombre_jugador": "Alejandro Catena"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_13_local_campo.png",
+                "nombre_jugador": "Juan Cruz"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
@@ -589,7 +865,44 @@
                 "equipo_visitante_nombre": "Atl\u00e9tico",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "14": {
+        "nombre_equipo": "Rayo",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/rayo-vallecano",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/14.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "\u00c1lvaro Garc\u00eda"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Adri\u00e1n Embarba"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Gerard Gumbau"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Andrei Ratiu"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Alfonso Espino"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Isi Palaz\u00f3n"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_14_local_campo.png",
+                "nombre_jugador": "Augusto Batalla"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
@@ -634,7 +947,24 @@
                 "equipo_visitante_nombre": "Betis",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "15": {
+        "nombre_equipo": "Real Madrid",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-madrid",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/15.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_15_local_campo.png",
+                "nombre_jugador": "Lucas V\u00e1zquez"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_15_local_campo.png",
+                "nombre_jugador": "Dani Ceballos"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/15.png",
@@ -679,7 +1009,36 @@
                 "equipo_visitante_nombre": "Real Madrid",
                 "informacion_partido": "Jornada 35Dom 11/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "16": {
+        "nombre_equipo": "Real Sociedad",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/real-sociedad",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/16.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
+                "nombre_jugador": "Mikel Oyarzabal"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
+                "nombre_jugador": "Brais M\u00e9ndez"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
+                "nombre_jugador": "Aihen Mu\u00f1oz"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
+                "nombre_jugador": "Javi L\u00f3pez"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_16_local_campo.png",
+                "nombre_jugador": "Be\u00f1at Turrientes"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
@@ -724,7 +1083,24 @@
                 "equipo_visitante_nombre": "Celta",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "17": {
+        "nombre_equipo": "Sevilla",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/sevilla",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/17.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
+                "nombre_jugador": "Albert Sambi Lokonga"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_17_local_campo.png",
+                "nombre_jugador": "Nemanja Gudelj"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/17.png",
@@ -769,7 +1145,24 @@
                 "equipo_visitante_nombre": "Las Palmas",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "18": {
+        "nombre_equipo": "Valencia",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valencia",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/18.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_18_local_campo.png",
+                "nombre_jugador": "Umar Sadiq"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_18_local_campo.png",
+                "nombre_jugador": "C\u00e9sar T\u00e1rrega"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/14.png",
@@ -814,7 +1207,24 @@
                 "equipo_visitante_nombre": "Valencia",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "19": {
+        "nombre_equipo": "Valladolid",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/valladolid",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/19.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
+                "nombre_jugador": "Iv\u00e1n S\u00e1nchez"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_19_local_campo.png",
+                "nombre_jugador": "Mamadou Sylla"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/19.png",
@@ -859,7 +1269,32 @@
                 "equipo_visitante_nombre": "Girona",
                 "informacion_partido": "Jornada 36Mie 14/0521:00h",
                 "competicion_img": "https://static.futbolfantasy.com/uploads/images/logos_competiciones/laliga2023.png"
+            }
+        ]
+    },
+    "22": {
+        "nombre_equipo": "Villarreal",
+        "url_equipo": "https://www.futbolfantasy.com/laliga/equipos/villarreal",
+        "enlace_img_equipo": "https://static.futbolfantasy.com/uploads/images/cabecera/hd/22.png",
+        "jugadores_apercebidos": [
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
+                "nombre_jugador": "Ra\u00fal Albiol"
             },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
+                "nombre_jugador": "Juan Foyth"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
+                "nombre_jugador": "Sergi Cardona"
+            },
+            {
+                "img_jugador": "https://static.futbolfantasy.com/uploads/images/camisetas/2025_22_local_campo.png",
+                "nombre_jugador": "Thierno Barry"
+            }
+        ],
+        "partidos": [
             {
                 "partido": 1,
                 "equipo_local_img": "https://static.futbolfantasy.com/uploads/images/equipos/escudom/22.png",
